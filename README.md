@@ -1,17 +1,33 @@
-# nexlevr_calculator
+# Nexlevr Calculator 🧮
 
-A new Flutter project.
+A simple and user-friendly calculator application built with Flutter and Dart.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Basic arithmetic operations
+- Addition, subtraction, multiplication, and division
+- Percentage calculation
+- Decimal number support
+- Positive and negative number conversion
+- Clear and backspace functions
+- Clean and responsive user interface
+- Separate UI and calculation logic
+- Cross-platform Flutter project structure
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Android Studio
+- Git
+- GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Project Structure
+
+```text
+lib/
+├── LOGIC/
+│   └── calculator_logic.dart
+├── SCREENS/
+│   └── calculator_screen.dart
+└── main.dart
