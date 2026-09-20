@@ -31,7 +31,7 @@ lib/
 ├── SCREENS/
 │   └── calculator_screen.dart
 └── main.dart
-'''
+```
 ## 📸 Screenshots
 
 ### Calculator Interface
@@ -52,3 +52,4 @@ lib/
 
 ```bash
 git clone https://github.com/shubhamops36/Nexlevr_calculator.git
+```
