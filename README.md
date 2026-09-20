@@ -31,3 +31,23 @@ lib/
 ├── SCREENS/
 │   └── calculator_screen.dart
 └── main.dart
+## 📸 Screenshots
+
+### Calculator Interface
+
+![Calculator Home](calculator-home.png)
+
+### Calculation
+
+![Calculator Calculation](calculator-calculation.png)
+
+### Result
+
+![Calculator Result](calculator-result.png)
+
+## 🚀 How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/shubhamops36/Nexlevr_calculator.git
