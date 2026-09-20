@@ -32,6 +32,7 @@ lib/
 │   └── calculator_screen.dart
 └── main.dart
 ```
+
 ## 📸 Screenshots
 
 ### Calculator Interface
